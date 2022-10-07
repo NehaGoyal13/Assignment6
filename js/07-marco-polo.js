@@ -2,6 +2,7 @@
 
 
 //Marco! Polo! 
+//For Checking this files result, you have to uncomment the designated linked Script tag in .html file and have to comment other script tags.
 var x;
 for(x=1;x<=100;x+=1){
     if(x%3===0){
